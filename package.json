@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-javascript-practico",
+  "version": "1.0.0",
+  "description": "Curso practicco de consumo de api rest con javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santyluito/api-rest-javascript-practico.git"
+  },
+  "author": "Luis M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Santyluito/api-rest-javascript-practico/issues"
+  },
+  "homepage": "https://github.com/Santyluito/api-rest-javascript-practico#readme"
+}
